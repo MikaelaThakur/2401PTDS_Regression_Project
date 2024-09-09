@@ -92,9 +92,8 @@ pip install -r requirements.txt
 
 | Name                                                                                        |  Email              
 |---------------------------------------------------------------------------------------------|--------------------             
-| [Jana Liebenberg-Fouche](https://github.com/Jana-Liebenberg)                                | jliebenberg-fouche@sandtech.com
-| [Edmund Dotsey](https://github.com/Edotsey)                                                 | edotsey@sandtech.com
-| [Farayi Myambo](https://github.com/Farayi-Explore)                                          | fmyambo@sandtech.com
+| [Thavaagh Pillay](https://github.com/thavaagh)                                | thavaagh@gmail.com
+| [Mikaela Thakur](https://github.com/MikaelaThakur)                                                 | thakur.mikaela@gmail.com
 
 
 
@@ -106,6 +105,9 @@ This README file provides instructions on how to recreate the Python environment
 Prerequisites
 
     Anaconda installed on your system. You can download and install it from Anaconda Distribution.
+
+
+#### Section 8
 
 Steps to Recreate the Environment
 
