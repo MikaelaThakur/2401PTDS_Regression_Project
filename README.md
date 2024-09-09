@@ -96,18 +96,7 @@ pip install -r requirements.txt
 | [Mikaela Thakur](https://github.com/MikaelaThakur)                                                 | thakur.mikaela@gmail.com
 
 
-
-#### Additional Resources to create a README file:
-- [Make a README](https://www.makeareadme.com/)
-- [GitHub Docs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)
-- [FreeCodeCamp](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/)
-This README file provides instructions on how to recreate the Python environment for this project using Anaconda.
-Prerequisites
-
-    Anaconda installed on your system. You can download and install it from Anaconda Distribution.
-
-
-#### Section 8
+## 6. Steps to recreate the enviroment:<a class="anchor" id="team-members"></a>
 
 Steps to Recreate the Environment
 
@@ -165,3 +154,12 @@ Common issues:
     conda update conda
 
 If you still face issues, you can create a new environment from scratch and install the required packages manually.
+
+#### Additional Resources to create a README file:
+- [Make a README](https://www.makeareadme.com/)
+- [GitHub Docs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)
+- [FreeCodeCamp](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/)
+This README file provides instructions on how to recreate the Python environment for this project using Anaconda.
+Prerequisites
+
+    Anaconda installed on your system. You can download and install it from Anaconda Distribution.
